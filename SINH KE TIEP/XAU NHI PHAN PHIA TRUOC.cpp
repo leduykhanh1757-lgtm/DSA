@@ -11,14 +11,13 @@ int main(){
 		cin>>s;
 		int n = s.size();
 		int i = n-1;
-		while(i>=0 && s[i] == '1'){
-			s[i] = '0';
-			--i;	
+		while(i>=0 && s[i] =='0'){
+			s[i]='1';
+			--i;
 		}
-		if(i!= -1){
-			s[i] = '1';
-		}	
+		if(i!=-1){
+			s[i]='0';
+		}
 		cout<<s<<endl;
 	}
-
 }
