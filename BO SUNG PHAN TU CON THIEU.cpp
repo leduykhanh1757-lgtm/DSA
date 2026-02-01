@@ -19,6 +19,6 @@ int main(){
 				cnt += (a[i+1]-a[i]-1);
 			}
 		}
-		cout<<cnt<<endl;
+		cout<<cnt<<" ";
 	}
 }
