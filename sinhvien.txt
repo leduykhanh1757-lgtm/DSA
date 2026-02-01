@@ -1,0 +1,12 @@
+2023001
+Nguyen Van A
+Cong nghe thong tin
+3.5
+2023005
+Tran Thi B
+Ke toan
+3.8
+2023002
+Le Van C
+Khoa hoc may tinh
+3.2

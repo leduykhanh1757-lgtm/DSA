@@ -1,0 +1,20 @@
+NV01
+Nguyen Van A
+Ke Toan
+1500
+NV02
+Tran Thi B
+Nhan Su
+1200
+NV03
+Le Van C
+Ky Thuat
+2000
+NV04
+Nguyen Van A
+Marketing
+1800
+NV05
+Pham Van D
+Ky Thuat
+2200
